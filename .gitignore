@@ -1,0 +1,6 @@
+output/
+.venv/
+.idea/
+__pycache__/
+*.out
+*.err
